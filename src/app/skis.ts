@@ -55,7 +55,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ul-spearhead-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/SPEARHEAD.png"
 
   },
   {
@@ -71,7 +71,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow' ,
-    src : "../assets/SKIS-IMAGES/sr-ul-spearhead-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/SPEARHEAD.png"
 
   }
   ,
@@ -88,7 +88,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-     src : "../assets/SKIS-IMAGES/sr-ul-spearhead-top.png"
+     src : "https://ogso-mountain-essentials.com/app/ski-photos/SPEARHEAD.png"
   }
   ,
   {
@@ -104,7 +104,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow' ,
-     src : "../assets/SKIS-IMAGES/sr-ul-spearhead-top.png"
+     src : "https://ogso-mountain-essentials.com/app/ski-photos/SPEARHEAD.png"
 
   }
   ,
@@ -121,7 +121,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ul-spearhead-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/SPEARHEAD.png"
 
 
   },
@@ -140,7 +140,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : '../assets/SKIS-IMAGES/sr-ul-cosmique-top.png'
+    src : 'https://ogso-mountain-essentials.com/app/ski-photos/COSMIQUE.png'
 
   },
   {
@@ -156,7 +156,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : '../assets/SKIS-IMAGES/sr-ul-cosmique-top.png'
+    src : 'https://ogso-mountain-essentials.com/app/ski-photos/COSMIQUE.png'
 
 
 
@@ -175,7 +175,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : '../assets/SKIS-IMAGES/sr-ul-cosmique-top.png'
+    src : 'https://ogso-mountain-essentials.com/app/ski-photos/COSMIQUE.png'
 
 
 
@@ -194,7 +194,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : '../assets/SKIS-IMAGES/sr-ul-cosmique-top.png'
+    src : 'https://ogso-mountain-essentials.com/app/ski-photos/COSMIQUE.png'
 
 
   }
@@ -212,7 +212,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : '../assets/SKIS-IMAGES/sr-ul-cosmique-top.png'
+    src : 'https://ogso-mountain-essentials.com/app/ski-photos/COSMIQUE.png'
 
 
   },
@@ -231,7 +231,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['powder', 'freeride'],
     riding_speed: 'slow',
-    src : '../assets/SKIS-IMAGES/sr-ul-schwarztor-top.png'
+    src : 'https://ogso-mountain-essentials.com/app/ski-photos/SCHWARZTOR.png'
 
 
   },
@@ -248,7 +248,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['powder', 'freeride'],
     riding_speed: 'slow',
-    src : '../assets/SKIS-IMAGES/sr-ul-schwarztor-top.png'
+    src : 'https://ogso-mountain-essentials.com/app/ski-photos/SCHWARZTOR.png'
 
 
   }
@@ -266,7 +266,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['powder', 'freeride'],
     riding_speed: 'slow',
-    src : '../assets/SKIS-IMAGES/sr-ul-schwarztor-top.png'
+    src : 'https://ogso-mountain-essentials.com/app/ski-photos/SCHWARZTOR.png'
 
 
   }
@@ -284,7 +284,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['powder', 'freeride'],
     riding_speed: 'slow',
-    src : '../assets/SKIS-IMAGES/sr-ul-schwarztor-top.png'
+    src : 'https://ogso-mountain-essentials.com/app/ski-photos/SCHWARZTOR.png'
 
 
   }
@@ -302,7 +302,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['powder', 'freeride'],
     riding_speed: 'slow',
-    src : '../assets/SKIS-IMAGES/sr-ul-schwarztor-top.png'
+    src : 'https://ogso-mountain-essentials.com/app/ski-photos/SCHWARZTOR.png'
 
 
   }
@@ -321,7 +321,7 @@ export interface Prediction {
     playground: ['touring-back-mountain'],
     ski_style: ['powder', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ul-corbet's-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/CORBETS.png"
 
 
   }
@@ -338,7 +338,7 @@ export interface Prediction {
     playground: ['touring-back-mountain'],
     ski_style: ['powder', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ul-corbet's-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/CORBETS.png"
 
 
   }
@@ -355,7 +355,7 @@ export interface Prediction {
     playground: ['touring-back-mountain'],
     ski_style: ['powder', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ul-corbet's-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/CORBETS.png"
 
 
   }
@@ -372,7 +372,7 @@ export interface Prediction {
     playground: ['touring-back-mountain'],
     ski_style: ['powder', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ul-corbet's-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/CORBETS.png"
 
 
   }
@@ -392,7 +392,7 @@ export interface Prediction {
     playground: ['touring-back-mountain'],
     ski_style: ['powder', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ul-corbet's-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/CORBETS.png"
 
 
   },
@@ -409,7 +409,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-whymper-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/WHYMPER.png"
 
 
   },
@@ -426,7 +426,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-whymper-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/WHYMPER.png"
 
   }
   ,
@@ -443,7 +443,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-whymper-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/WHYMPER.png"
 
   }
   ,
@@ -460,7 +460,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-whymper-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/WHYMPER.png"
 
   }
   ,
@@ -477,7 +477,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-whymper-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/WHYMPER.png"
 
   }
   ,
@@ -495,7 +495,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-gervasutti-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/GERVASUTTI.png"
 
   },
   {
@@ -511,7 +511,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-gervasutti-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/GERVASUTTI.png"
 
   }
   ,
@@ -528,7 +528,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-gervasutti-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/GERVASUTTI.png"
 
   }
   ,
@@ -545,7 +545,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-gervasutti-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/GERVASUTTI.png"
 
   }
   ,
@@ -562,7 +562,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-gervasutti-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/GERVASUTTI.png"
 
   },
   {
@@ -578,7 +578,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride', 'piste'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-diable-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/DIABLE.png"
 
   },
   {
@@ -594,7 +594,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride', 'piste'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-diable-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/DIABLE.png"
 
 
   }
@@ -612,7 +612,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride', 'piste'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-diable-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/DIABLE.png"
 
 
   }
@@ -630,7 +630,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride', 'piste'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-diable-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/DIABLE.png"
 
 
   }
@@ -648,7 +648,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride', 'piste'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-diable-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/DIABLE.png"
 
 
   }
@@ -666,7 +666,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-speNEOer-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/SPENCER.jpg"
 
 
   }
@@ -683,7 +683,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-speNEOer-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/SPENCER.jpg"
 
 
   }
@@ -700,7 +700,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-speNEOer-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/SPENCER.jpg"
 
 
   }
@@ -717,7 +717,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-speNEOer-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/SPENCER.jpg"
 
 
   }
@@ -737,7 +737,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride'],
     riding_speed: 'slow',
-    src : "../assets/SKIS-IMAGES/sr-ml-speNEOer-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/SPENCER.jpg"
 
 
   },
@@ -754,7 +754,7 @@ export interface Prediction {
     playground: ['touring-race'],
     ski_style: ['piste'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/BONATTI-DESIGN_Plan de travail 1.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/BONATTI.png"
 
 
   },
@@ -771,7 +771,7 @@ export interface Prediction {
     playground: ['touring-race'],
     ski_style: ['piste'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/BONATTI-DESIGN_Plan de travail 1.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/BONATTI.png"
 
   },
   {
@@ -787,7 +787,7 @@ export interface Prediction {
     playground: ['touring-race'],
     ski_style: ['piste'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/BONATTI-DESIGN_Plan de travail 1.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/BONATTI.png"
 
   },
   {
@@ -803,7 +803,7 @@ export interface Prediction {
     playground: ['touring-race'],
     ski_style: ['piste'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/BONATTI-DESIGN_Plan de travail 1.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/BONATTI.png"
 
   },
   {
@@ -819,7 +819,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ul-jeager-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/JAEGER.png"
 
   },
   {
@@ -835,7 +835,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ul-jeager-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/JAEGER.png"
 
 
   }
@@ -853,7 +853,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ul-jeager-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/JAEGER.png"
 
 
   }
@@ -871,7 +871,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ul-jeager-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/JAEGER.png"
 
 
   }
@@ -889,7 +889,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ul-jeager-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/JAEGER.png"
 
 
   },
@@ -906,7 +906,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ul-thor-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/THOR.png"
 
 
   },
@@ -923,7 +923,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ul-thor-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/THOR.png"
 
 
   }
@@ -941,7 +941,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ul-thor-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/THOR.png"
 
 
   }
@@ -959,7 +959,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ul-thor-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/THOR.png"
 
 
   }
@@ -977,7 +977,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ul-thor-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/THOR.png"
 
 
   },
@@ -994,7 +994,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['powder', 'freeride', 'piste', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ul-couturier-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/COUTURIER.png"
 
 
   },
@@ -1011,7 +1011,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['powder', 'freeride', 'piste', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ul-couturier-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/COUTURIER.png"
 
 
   }
@@ -1029,7 +1029,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['powder', 'freeride', 'piste', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ul-couturier-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/COUTURIER.png"
 
 
   }
@@ -1047,7 +1047,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['powder', 'freeride', 'piste', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ul-couturier-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/COUTURIER.png"
 
 
   }
@@ -1065,7 +1065,7 @@ export interface Prediction {
     playground: ['touring-back-mountain', 'touring-mountaineering'],
     ski_style: ['powder', 'freeride', 'piste', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ul-couturier-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/COUTURIER.png"
 
 
   }
@@ -1083,7 +1083,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-krumpe-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/KRUMPE.png"
 
 
   },
@@ -1100,7 +1100,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-krumpe-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/KRUMPE.png"
 
 
   }
@@ -1118,7 +1118,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-krumpe-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/KRUMPE.png"
 
 
   }
@@ -1136,7 +1136,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-krumpe-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/KRUMPE.png"
 
 
   }
@@ -1154,7 +1154,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-krumpe-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/KRUMPE.png"
 
 
   },
@@ -1171,7 +1171,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-danaides-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/DANAIDES.png"
 
   },
   {
@@ -1187,7 +1187,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-danaides-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/DANAIDES.png"
 
   }
   ,
@@ -1204,7 +1204,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-danaides-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/DANAIDES.png"
 
 
   }
@@ -1222,7 +1222,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-danaides-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/DANAIDES.png"
 
 
   }
@@ -1240,7 +1240,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['piste', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-danaides-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/DANAIDES.png"
 
 
   },
@@ -1257,7 +1257,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-marinelli-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/MARINELLI.png"
 
 
   },
@@ -1274,7 +1274,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-marinelli-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/MARINELLI.png"
 
 
   }
@@ -1292,7 +1292,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-marinelli-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/MARINELLI.png"
 
 
   }
@@ -1310,7 +1310,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-marinelli-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/MARINELLI.png"
 
 
   }
@@ -1328,7 +1328,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-marinelli-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/MARINELLI.png"
 
 
   },
@@ -1345,7 +1345,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-mallory-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/MALLORY.png"
 
   }
   , {
@@ -1361,7 +1361,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-mallory-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/MALLORY.png"
 
 
   }
@@ -1378,7 +1378,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-mallory-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/MALLORY.png"
 
 
   }
@@ -1395,7 +1395,7 @@ export interface Prediction {
     playground: ['touring-front-mountain'],
     ski_style: ['powder', 'freeride', 'couloire'],
     riding_speed: 'fast',
-    src : "../assets/SKIS-IMAGES/nc-ml-mallory-top.png"
+    src : "https://ogso-mountain-essentials.com/app/ski-photos/MALLORY.png"
 
 
   }

@@ -15,9 +15,19 @@ export class SharedService {
     this.height = data
 
   }
+  setHeightSplit(data: number){
+    this.height = data
+
+  }
+
   getHeight(){
     return this.height;
   }
+  getHeightSplit(){
+    return this.height;
+  }
+
+
   setWeight(data: number){
     this.weight = data
 
@@ -25,6 +35,16 @@ export class SharedService {
   getWeight(){
     return this.weight;
   }
+
+  setWeightSplit(data: number){
+    this.weight = data
+
+  }
+  getWeightSplit(){
+    return this.weight;
+  }
+
+
   setSkilevel(data: string){
     this.ski_level = data
 
@@ -32,6 +52,23 @@ export class SharedService {
   getSkiLevel(){
     return this.ski_level;
   }
+
+  setSkilevelSplit(data: string){
+    this.ski_level = data
+
+  }
+  getSkiLevelSplit(){
+    return this.ski_level;
+  }
+
+  setTerrainTypeSplit(data: string){
+    this.Terrain_type = data
+
+  }
+  getTerrainTypeSplit(){
+    return this.Terrain_type;
+  }
+
   setTerrainType(data: string){
     this.Terrain_type = data
 
@@ -39,6 +76,16 @@ export class SharedService {
   getTerrainType(){
     return this.Terrain_type;
   }
+
+  setSkiStyleSplit(data: string){
+    this.ski_style = data
+
+  }
+  getSkiStyleSplit(){
+    return this.ski_style;
+  }
+
+
   
   setSkiStyle(data: string){
     this.ski_style = data
@@ -52,6 +99,14 @@ export class SharedService {
 
   }
   getRiding(){
+    return this.riding_speed;
+  }
+
+  setRidingSplit(data: string){
+    this.riding_speed = data
+
+  }
+  getRidingSplit(){
     return this.riding_speed;
   }
 

@@ -12,6 +12,15 @@ import { TerrainTypeComponent } from './terrain-type/terrain-type.component';
 import { SkiStyleComponent } from './ski-style/ski-style.component';
 import { RidingSpeedComponent } from './riding-speed/riding-speed.component';
 import { environment } from 'src/environments/environment';
+import { ChooseYouGearComponent } from './choose-you-gear/choose-you-gear.component';
+import { SplitboardSizeComponent } from './splitboard-size/splitboard-size.component';
+import { SplitboardHeightComponent } from './splitboard-height/splitboard-height.component';
+import { SplitboardSkiingLevelComponent } from './splitboard-skiing-level/splitboard-skiing-level.component';
+import { SplitboardYourTerrainTypeComponent } from './splitboard-your-terrain-type/splitboard-your-terrain-type.component';
+import { SplitboardSkiingStyleComponent } from './splitboard-skiing-style/splitboard-skiing-style.component';
+import { SplitboardSpeedComponent } from './splitboard-speed/splitboard-speed.component';
+import { SplitboardTurnComponent } from './splitboard-turn/splitboard-turn.component';
+import { SplitboardResultComponent } from './splitboard-result/splitboard-result.component';
 
 @NgModule({
   declarations: [
@@ -23,6 +32,15 @@ import { environment } from 'src/environments/environment';
      TerrainTypeComponent,
      SkiStyleComponent,
      RidingSpeedComponent,
+     ChooseYouGearComponent,
+     SplitboardSizeComponent,
+     SplitboardHeightComponent,
+     SplitboardSkiingLevelComponent,
+     SplitboardYourTerrainTypeComponent,
+     SplitboardSkiingStyleComponent,
+     SplitboardSpeedComponent,
+     SplitboardTurnComponent,
+     SplitboardResultComponent,
  ],
   imports: [
     BrowserModule,
