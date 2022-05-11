@@ -1,6 +1,15 @@
 * {
   box-sizing: border-box;
 }
+
+img {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+
+
+
+
 div.container {
   margin: 0 auto; /* to center the container */
   display: inline-flex; /* or inline-flex */
