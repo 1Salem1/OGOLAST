@@ -55,7 +55,7 @@ export interface Product {
           ski_style: ['technical-precision'],
           riding_speed: 'high-speed',
           turns : 'long',
-          src : "../assets/splitboards/delerium.png"
+          src : "https://ogso-mountain-essentials.com/app/splitboard/delerium.png"
       
         },
         {
@@ -71,7 +71,7 @@ export interface Product {
             ski_style: ['technical-precision'],
             riding_speed: 'high-speed',
             turns : 'long',
-            src : "../assets/splitboards/delerium.png"
+            src : "https://ogso-mountain-essentials.com/app/splitboard/delerium.png"
         
           },
           {
@@ -87,7 +87,7 @@ export interface Product {
             ski_style: ['technical-precision'],
             riding_speed: 'moderate-speed',
             turns : 'long',
-            src : "../assets/splitboards/delerium.png"
+            src : "https://ogso-mountain-essentials.com/app/splitboard/delerium.png"
         
           },
           {
@@ -103,7 +103,7 @@ export interface Product {
             ski_style: ['fun-surf'],
             riding_speed: 'moderate-speed',
             turns : 'short',
-            src : "../assets/splitboards/valluga.png"
+            src : "https://ogso-mountain-essentials.com/app/splitboard/valluga.png"
         
           },
           {
@@ -119,7 +119,7 @@ export interface Product {
               ski_style: ['fun-surf'],
               riding_speed: 'moderate-speed',
               turns : 'short',
-              src : "../assets/splitboards/valluga.png"
+              src : "https://ogso-mountain-essentials.com/app/splitboard/valluga.png"
           
             },
             {
@@ -135,7 +135,7 @@ export interface Product {
               ski_style: ['fun-surf'],
               riding_speed: 'moderate-speed',
               turns : 'short',
-              src : "../assets/splitboards/valluga.png"
+              src : "https://ogso-mountain-essentials.com/app/splitboard/valluga.png"
           
             }
 

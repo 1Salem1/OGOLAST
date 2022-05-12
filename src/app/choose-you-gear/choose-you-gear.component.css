@@ -5,6 +5,7 @@
 img {
   -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
   filter: grayscale(100%);
+  transform: rotate(10deg);
 }
 
 
@@ -62,3 +63,5 @@ h2 {
   margin : 0 auto;
   margin-bottom: 10px;
 }
+
+

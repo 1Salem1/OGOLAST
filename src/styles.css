@@ -5,6 +5,18 @@ main {
    
 }
 
+
+.containerT {
+  width: 200;
+  height : 200;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  align-content: center
+  ;
+}
+
+
 .checkbox_radio_container .radio, .checkbox_radio_container .checkbox {
   display: inline-block  !important;
   width: 25px !important;
@@ -29,6 +41,27 @@ main {
     :root {
       scroll-behavior: smooth;
     }
+  }
+
+
+
+  
+  .tooltip .tooltiptext {
+
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
   }
   
   /*!
@@ -10914,7 +10947,7 @@ body {
   color: #444;
 }
 body.style_1 {
-  background: #091a38 url("./assets/images/instagram-folio-bg.jpg") no-repeat center center;
+  background: #e8500e url("https://ogso-mountain-essentials.com/app/assets/background.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -10922,11 +10955,11 @@ body.style_1 {
 }
 @media (max-width: 767px) {
   body.style_1 {
-    background: #ce61c9;
+    background: #643E2B;
   }
 }
 body.style_2 {
-  background: #091a38 url("./assets/images/instagram-folio-bg.jpg") no-repeat center center;
+  background: #643E2B url("https://ogso-mountain-essentials.com/app/assets/background.jpg")no-repeat center center ;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -10934,11 +10967,12 @@ body.style_2 {
 }
 @media (max-width: 767px) {
   body.style_2 {
-    background: #091a38;
+    background: #643E2B;
+    
   }
 }
 body.style_3 {
-  background: #091a38 url("./assets/images/instagram-folio-bg.jpg") no-repeat center center;
+  background:  #643E2B url("https://ogso-mountain-essentials.com/app/assets/background.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -10946,7 +10980,8 @@ body.style_3 {
 }
 @media (max-width: 767px) {
   body.style_3 {
-    background: #454de5;
+    background: #643E2B;
+    
   }
 }
 
